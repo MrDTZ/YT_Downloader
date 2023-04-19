@@ -22,6 +22,9 @@
 
 - 📌️ close the Terminal and go to the YT_Downloader folder and Right click the yt_downloader.sh file and select Run as a Program
 
+![Screenshot from 2023-03-19 13-32-23](https://user-images.githubusercontent.com/118705843/233083281-8710eb4f-e8b3-492b-a94f-5ce1d461f0df.png)
+
+
 # 📥️ Install For Termux (Android)
 
 - 📌️ $ apt update -y
