@@ -5,7 +5,7 @@
 
 - 📌️ This is on GUI Interface.
 
-![ss](https://user-images.githubusercontent.com/118705843/233081133-d8388f70-250e-47b3-a4fd-849716da3e3b.png)
+![Screenshot from 2023-03-19 13-32-13](https://user-images.githubusercontent.com/118705843/233083025-4c7fcdb4-6cd5-41ed-8716-f0333f1e3684.png)
 
 
 # 📥️ Install for kali Linux
