@@ -17,7 +17,7 @@
 
 - 📌️ $ sudo apt upgrade
 
-- 📌️ $ git clone 
+- 📌️ $ git clone https://github.com/MrDTZ/YT_Downloader.git
 
 - 📌️ $ cd YT_Downloder
 
@@ -36,7 +36,7 @@
 
 - 📌️ $ apt install bash -y
 
-- 📌️ $ git clone 
+- 📌️ $ git clone https://github.com/MrDTZ/YT_Downloader.git
 
 - 📌️ $ cd YT_Downloader
 
